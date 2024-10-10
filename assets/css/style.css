@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Dots:wght@400..700&display=swap');
+
+body{
+    font-family:"Edu AU VIC WA NT Dots", cursive;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+.treeContainer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 20px;
+
+}
+article{
+    width: 25%;
+    box-shadow: darkgrey 10px 10px 10px;
+    text-align: center;
+    padding: 10px;
+}
